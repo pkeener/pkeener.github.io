@@ -1,4 +1,4 @@
-###360
+### 360
 
 This is a photo of my schools new wing.
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/8kjww" ></script>
