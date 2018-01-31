@@ -1,4 +1,6 @@
-### 360
+### 360 Photos
+
+## Thanks for visiting my TechStart page! These are a few 360 images I took around my school.
 
 This is a photo of my schools new wing.
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/8kjww" ></script>
